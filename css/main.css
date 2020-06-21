@@ -101,6 +101,8 @@ header p{
     letter-spacing: 1px;
 }
 
+
+
 .card-body{
      color: black;
  }
@@ -117,6 +119,11 @@ header p{
      width: 100% !important;
 
  }
+  
+.project-title {
+    font-size: 2rem;
+    padding: 2rem 0.5rem;
+  }
 
 #contact{
     display: flex;
@@ -153,6 +160,7 @@ header p{
 }
 
 .btn{
+    margin-bottom: 30px;
     padding: 1rem 2rem;
     font-size: 2rem;
     text-shadow: 2px 2px 1px #1f1f1f;
@@ -275,8 +283,9 @@ footer{
       display: block;
       text-align: left;
     }
-      
-      #projects{
+}
+
+#projects{
     text-align: center;
     padding: 10rem 8rem;
     background: #11998e;
