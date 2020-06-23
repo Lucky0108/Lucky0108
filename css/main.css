@@ -333,7 +333,11 @@ footer{
 
 
 @media (max-width: 780px){
-
+    
+    .personal_text h5{
+    font-size: 12px ;
+  }
+    
     #About{
       margin-top: 50px;
       margin-left: 30px;
