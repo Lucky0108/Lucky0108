@@ -40,7 +40,7 @@ You can go and have a look at my Portfolio Site here. [Lakshay Yadav](https://la
 
 - 📄 My Resume: [Resume](https://drive.google.com/file/d/1IZTzvX4qbST3QSNVrMzyKHYhrQY8YQ-J/view?usp=sharing)
 
-<br> <br> <br> <br> 
+<br> <br> <br>
 <hr>
 
 **Languages and Tools:**  
@@ -58,10 +58,11 @@ You can go and have a look at my Portfolio Site here. [Lakshay Yadav](https://la
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/28f409f9502a010116fb00848ac8c71e5674dee3/icons/insomnia.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/28f409f9502a010116fb00848ac8c71e5674dee3/icons/heroku.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/28f409f9502a010116fb00848ac8c71e5674dee3/icons/adobephotoshop.svg"></code> <br> 
+<code><img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/28f409f9502a010116fb00848ac8c71e5674dee3/icons/adobephotoshop.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/28f409f9502a010116fb00848ac8c71e5674dee3/icons/figma.svg"></code>
 
 ___
