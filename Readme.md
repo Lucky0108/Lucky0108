@@ -5,7 +5,7 @@
 <a href="https://discord.gg/FDSGrX2r4S">
   <img align="left" alt="Lakshay Yadav's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/lxkshay">
+<a href="https://www.reddit.com/user/lakshay-yadav">
   <img align="left" alt="Lakshay Yadav's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 <a href="https://twitter.com/lxkshay">
