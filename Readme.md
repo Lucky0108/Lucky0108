@@ -67,8 +67,8 @@ You can go and have a look at my Portfolio Site here. [Lakshay Yadav](https://la
 
 ___
 
-### 📈 My GitHub Stats
-
+## 📈 My GitHub Stats
+<br>
 <p align="left"> 
 <img src="https://github-readme-stats.vercel.app/api?username=Lucky0108&hide=stars,issues&show_icons=true&count_private=true&line_height=30&theme=dracula" alt="Lakshay's Github Stats">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky0108" alt="Lakshay's Github Top Languages">
