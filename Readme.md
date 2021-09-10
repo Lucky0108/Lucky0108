@@ -30,9 +30,9 @@ Currently a Computer Science student at Anand International College Of Engineeri
 
   <img align="right" alt="Code" src="https://raw.githubusercontent.com/Lucky0108/Lucky0108/master/img/codeView.jpg?raw=true" width="500" height="320" />
 
-You can go and have a look at my Portfolio Site here. [Lakshay Yadav](https://lakshayyadav.me)
+You can go and have a look at my Portfolio Site here. [Lakshay Yadav](https://lakshayyadav.tech)
 
-- 👨‍💻 All of my projects are available at [https://lakshayyadav.me](https://lakshayyadav.me)
+- 👨‍💻 All of my projects are available at [https://lakshayyadav.tech](https://lakshayyadav.tech)
 
 - 💬 Ask me about anything, **Always Happy To Help!**
 
