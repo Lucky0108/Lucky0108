@@ -5,17 +5,11 @@
 <a href="https://discord.gg/FDSGrX2r4S">
   <img align="left" alt="Lakshay Yadav's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.reddit.com/user/lakshay-yadav">
-  <img align="left" alt="Lakshay Yadav's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
 <a href="https://twitter.com/lxkshay">
   <img align="left" alt="Lakshay Yadav| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/lakshay-yadav/">
   <img align="left" alt="Lakshay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/dv113m9r1r4mrntqfthjl9q84">
-  <img align="left" alt="Lakshay's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Lucky0108)
