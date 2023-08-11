@@ -1,15 +1,15 @@
 ### Hello there, My Fellow Coders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://github.com/Lucky0108">
-  <img align="left" alt="Lakshay Yadav's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+  <img align="left" alt="Lakshay Yadav's Github" width="22px" src="https://cdn.simpleicons.org/github" />
 </a>
 <a href="https://discord.gg/FDSGrX2r4S">
-  <img align="left" alt="Lakshay Yadav's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Lakshay Yadav's Discord" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
-<a href="https://twitter.com/lxkshay">
+<!-- <a href="https://twitter.com/lxkshay">
   <img align="left" alt="Lakshay Yadav| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/lakshay-yadav/">
-  <img align="left" alt="Lakshay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Lakshay's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Lucky0108)
