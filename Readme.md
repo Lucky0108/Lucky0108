@@ -9,7 +9,7 @@
   <img align="left" alt="Lakshay Yadav| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
 <a href="https://www.linkedin.com/in/lakshay-yadav/">
-  <img align="left" alt="Lakshay's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
+ LinkedIn
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Lucky0108)
