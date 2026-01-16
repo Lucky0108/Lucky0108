@@ -8,13 +8,11 @@
 <!-- <a href="https://twitter.com/lxkshay">
   <img align="left" alt="Lakshay Yadav| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
-<a href="https://www.linkedin.com/in/lakshay-yadav/">
+<!-- <a href="https://www.linkedin.com/in/lakshay-yadav/">
  LinkedIn
-</a>
+</a> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Lucky0108)
-
-<br>
 
 Hi, I'm [Lakshay Yadav](https://linkedin.com/lakshay-yadav/), a passionate self-taught Frontend Web Develoer from India and a very enthusiastic person who loves to learn new things. I take great pride in the quality of work I do.
 
