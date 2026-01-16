@@ -18,19 +18,15 @@ Hi, I'm [Lakshay Yadav](https://linkedin.com/lakshay-yadav/), a passionate self-
 
 I have been working on many React and MERN stack apps recently few of them are live at [Miracle Solutions](https://miracle-solutions.herokuapp.com/), [Mark Ad Grafix](https://mark-ad-grafix.herokuapp.com/), [Luckart](https://ecommclone.netlify.app/).
 
-Currently a Computer Science student at Anand International College Of Engineering.
+Full-stack engineer with 3.5+ years of experience building scalable web applications using Node.js, TypeScript, React, Next.js, and AWS. Strong focus on backend APIs, serverless architecture, cloud infrastructure, and performance optimization, with hands-on experience deploying production systems serving 50,000+ users.
 
-  <img align="right" alt="Code" src="https://raw.githubusercontent.com/Lucky0108/Lucky0108/master/img/codeView.jpg?raw=true" width="500" height="320" />
-
-You can go and have a look at my Portfolio Site here. [Lakshay Yadav](https://lakshayyadav.tech)
-
-- 👨‍💻 All of my projects are available at [https://lakshayyadav.tech](https://lakshayyadav.tech)
+<img align="right" alt="Code" src="https://raw.githubusercontent.com/Lucky0108/Lucky0108/master/img/codeView.jpg?raw=true" width="500" height="320" />
 
 - 💬 Ask me about anything, **Always Happy To Help!**
 
 - 📫 Reach me out at **raolakshayyadav02@gmail.com**
 
-- 📄 My Resume: [Resume](https://drive.google.com/file/d/1IZTzvX4qbST3QSNVrMzyKHYhrQY8YQ-J/view?usp=sharing)
+- 📄 My Resume: [Resume](https://drive.google.com/file/d/1ToYR2I6RqU74TSjJp63u8K3uXzVeCrmK/view?usp=sharing)
 
 <br> <br> <br>
 <hr>
