@@ -14,11 +14,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Lucky0108)
 
-Hi, I'm [Lakshay Yadav](https://linkedin.com/lakshay-yadav/), a passionate self-taught Frontend Web Develoer from India and a very enthusiastic person who loves to learn new things. I take great pride in the quality of work I do.
-
-I have been working on many React and MERN stack apps recently few of them are live at [Miracle Solutions](https://miracle-solutions.herokuapp.com/), [Mark Ad Grafix](https://mark-ad-grafix.herokuapp.com/), [Luckart](https://ecommclone.netlify.app/).
-
-Full-stack engineer with 3.5+ years of experience building scalable web applications using Node.js, TypeScript, React, Next.js, and AWS. Strong focus on backend APIs, serverless architecture, cloud infrastructure, and performance optimization, with hands-on experience deploying production systems serving 50,000+ users.
+Hi, I'm [Lakshay Yadav](https://linkedin.com/lakshay-yadav/), a full-stack engineer with 3.5+ years of experience building scalable web applications using Node.js, TypeScript, React, Next.js, and AWS. Strong focus on backend APIs, serverless architecture, cloud infrastructure, and performance optimization, with hands-on experience deploying production systems serving 50,000+ users..
 
 <img align="right" alt="Code" src="https://raw.githubusercontent.com/Lucky0108/Lucky0108/master/img/codeView.jpg?raw=true" width="500" height="320" />
 
@@ -56,14 +52,7 @@ Full-stack engineer with 3.5+ years of experience building scalable web applicat
 ___
 
 ## 📈 My GitHub Stats
-<br>
-<p align="left"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Lucky0108&hide=stars,issues&show_icons=true&count_private=true&line_height=30&theme=dracula" alt="Lakshay's Github Stats">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky0108" alt="Lakshay's Github Top Languages">
-<br> <br> <br> <br> <br>
-</p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucky0108&margin-w=15&margin-h=15&no-bg=true&theme=onedark" alt="lucky0108" /></a> </p>
-<br>
+
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Lucky0108&theme=dark&hide_border=true" alt="Lakshay's Github Streak Stats" ></p>
 
 Inspiration and Credits for This Profile are: [Abhishek Naidu](https://github.com/abhisheknaiidu) and [Freepix](http://www.freepik.com)
